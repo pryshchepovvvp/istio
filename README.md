@@ -8,6 +8,8 @@
 ![Screenshot](Lesson1/DockerHub.png)
 &nbsp;&nbsp;3. Create GitHub account if account doesn't exist yet
 ![Screenshot](Lesson1/GitHub.png)
-&nbsp;&nbsp;4. Install K9S tool https://k9scli.io
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brew install derailed/k9s/k9s
-![Screenshot](Lesson1/GitHub.png)
+&nbsp;&nbsp;4. Install K9S tool https://k9scli.io <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brew install derailed/k9s/k9s <br>
+![Screenshot](Lesson1/k9s.png)
+&nbsp;&nbsp;5. Install K8S dashboard https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ <br>
+![Screenshot](Lesson1/K8S_dashboard.png)
