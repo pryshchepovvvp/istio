@@ -1,1 +1,2 @@
-It's a repository fo Istio course
+It's a repository fo Istio course.
+
