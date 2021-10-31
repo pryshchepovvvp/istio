@@ -4,7 +4,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docker --version #to check task succefull <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open  docker desktop and enable Kubernetes
 ![Screenshot](Lesson1/k8s_in_dd.png)
-&nbsp;&nbsp;<h2>2. Create DockerHub account if account doesn't exist yet
+&nbsp;&nbsp;2. Create DockerHub account if account doesn't exist yet
 ![Screenshot](Lesson1/DockerHub.png)
-&nbsp;&nbsp;<h2>3. Create GitHub account if account doesn't exist yet
+&nbsp;&nbsp;3. Create GitHub account if account doesn't exist yet
+![Screenshot](Lesson1/GitHub.png)
+&nbsp;&nbsp;4. Install K9S tool https://k9scli.io
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brew install derailed/k9s/k9s
 ![Screenshot](Lesson1/GitHub.png)
