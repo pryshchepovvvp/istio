@@ -1,6 +1,6 @@
 <B>It's a repository fo Istio course</b><br>
-    Lesson 1: Setting up environment <br>
-        1. Setup local K8S instance DockerDesktop for MacOS <br>
+&nbsp&nbsp    Lesson 1: Setting up environment <br>
+&nbsp&nbsp &nbsp&nbsp        1. Setup local K8S instance DockerDesktop for MacOS <br>
             brew install --cask docker <br>
             docker --version #to check task succefull <br>
             Open  docker desktop and enable Kubernetes
