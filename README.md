@@ -13,3 +13,8 @@
 ![Screenshot](Lesson1/k9s.png)
 &nbsp;&nbsp;5. Install K8S dashboard https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ <br>
 ![Screenshot](Lesson1/K8S_dashboard.png)
+&nbsp;&nbsp;6. Istall Istio https://istio.io/latest/docs/setup/getting-started/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1. Enable Kiali in helm temlate during installation https://istio.io/latest/docs/tasks/observability/kiali/ <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2. Configure Jaeger tracing https://istio.io/latest/docs/tasks/observability/distributed-tracing/jaeger/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check successfull Istio installation
+![Screenshot](Lesson1/Istio.png)
