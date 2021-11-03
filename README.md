@@ -27,4 +27,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 brew install maven <br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Build all services <br>
 &nbsp;&nbsp;&nbsp;&nbsp;4. Publish application to your DockerHub repository <br>
-![Screenshot](Lesson/DockerHub.png)
+![Screenshot](Lesson2/DockerHub.png)
+&nbsp;&nbsp;&nbsp;&nbsp;5. Deploy application to  local Kubernetes <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1. Create namespace istio-course for deployment <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2. Make istio injection in this namespace <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kubectl label namespace istio-course istio-injection=enabled
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3. Deploy all components <br>
+![Screenshot](Lesson2/endpoints_check.png)
+![Screenshot](Lesson2/localhost_check.png)
