@@ -34,4 +34,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kubectl label namespace istio-course istio-injection=enabled
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3. Deploy all components <br>
 ![Screenshot](Lesson2/endpoints_check.png)
+&nbsp;&nbsp;&nbsp;&nbsp;6. Execute query in browser <br>
 ![Screenshot](Lesson2/localhost_check.png)
+&nbsp;&nbsp;&nbsp;&nbsp;7. Open Kiali - istioctl dashboard kiali <br>
+![Screenshot](Lesson2/kiali_app.png)
+![Screenshot](Lesson2/kiali_graph.png)
+&nbsp;&nbsp;&nbsp;&nbsp;8. Open Jaeger - istioctl dashboard jaeger <br>
+![Screenshot](Lesson2/jaeger.png)
+&nbsp;&nbsp;&nbsp;&nbsp;9. Open Grafana - istioctl dashboard grafana <br>
+![Screenshot](Lesson2/grafana_books.png)
+![Screenshot](Lesson2/grafana_authors.png)
+![Screenshot](Lesson2/grafana_frontend.png)
+&nbsp;&nbsp;&nbsp;&nbsp;10. Learning <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Istio telemetry https://istio.io/latest/docs/tasks/observability/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Istio monitoring https://istio.io/latest/docs/tasks/observability/metrics/using-istio-dashboard/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kiali tool https://kiali.io/docs/architecture/architecture/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open tracing https://opentracing.io/docs/overview/<br>
