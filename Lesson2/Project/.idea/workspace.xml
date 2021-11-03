@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d9ff04-077f-46ac-9f82-cc8316d861e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ProjectId" id="1az5exlUCsSQOXGff5n1C2YRsBG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/deployments" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k8s" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deployments" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/frontend/deployment" />
+      <recent name="$PROJECT_DIR$/authors/deployment" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d9ff04-077f-46ac-9f82-cc8316d861e6" name="Default Changelist" comment="" />
+      <created>1587725680963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587725680963</updated>
+      <workItem from="1587725683939" duration="1216000" />
+      <workItem from="1588925336579" duration="4925000" />
+      <workItem from="1588939884704" duration="8000" />
+      <workItem from="1600346084595" duration="4706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="502" height="445" key="SwitcherDM" timestamp="1600349272301">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="502" height="445" key="SwitcherDM/3440.868.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1600349272301" />
+    <state x="1399" y="493" width="642" height="476" key="find.popup" timestamp="1600349899587">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1399" y="493" width="642" height="476" key="find.popup/3440.868.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1600349899587" />
+  </component>
+</project>

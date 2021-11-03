@@ -21,3 +21,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overwie the Istio https://istio.io/latest/about/service-mesh/ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sidecar pattern https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ambassador pattern https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador 
+
+&nbsp;&nbsp;<h2>Lesson 2: Application deployment and telemetry data </h2><br>
+&nbsp;&nbsp;&nbsp;&nbsp;1,2. Install JDK11 &  Install a build tool maven <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 brew install maven <br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. Build all services <br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Publish application to your DockerHub repository <br>
+![Screenshot](Lesson/DockerHub.png)
