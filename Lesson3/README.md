@@ -5,5 +5,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. Adding version and published to Book object, add new Books, build new image and push it in DockerHub <br>
 ![Screenshot](books-service_images.png)
 &nbsp;&nbsp;&nbsp;&nbsp;3.2. Canary deployment <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. Adding new deployments to K8S changing version and image to previous author and  book services <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - files 1.1.authors-v2.yml 2.1.book-v2.yml <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. Adding new deployments to K8S changing version and image to previous author and  book services  files 1.1.authors-v2.yml 2.1.book-v2.yml <br>
+![Screenshot](pods.png)
