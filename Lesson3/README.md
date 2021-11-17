@@ -7,3 +7,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;3.2. Canary deployment <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. Adding new deployments to K8S changing version and image to previous author and  book services  files 1.1.authors-v2.yml 2.1.book-v2.yml <br>
 ![Screenshot](pods.png)
+![Screenshot](authors.png)
+![Screenshot](books.png)
