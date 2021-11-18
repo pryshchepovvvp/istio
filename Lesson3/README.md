@@ -11,3 +11,6 @@
 ![Screenshot](books.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2. Create virtual sevice to route 10/90 50/50 and 90/10 between v2 and v1
 ![Screenshot](kiali.png)
+&nbsp;&nbsp;&nbsp;&nbsp;3.3. Development environment <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. Change service authors including Developer issue with "Pryshchepov" value to all authors build and push it to DockerHub <br>
+![Screenshot](new_authors.png)
