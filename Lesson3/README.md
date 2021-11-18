@@ -12,5 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2. Create virtual sevice to route 10/90 50/50 and 90/10 between v2 and v1
 ![Screenshot](kiali.png)
 &nbsp;&nbsp;&nbsp;&nbsp;3.3. Development environment <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. Change service authors including Developer issue with "Pryshchepov" value to all authors build and push it to DockerHub <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. Change service authors including Developer issue with "Pryshchepov" value to all authors build and push it to DockerHub as authors-service:1.2<br>
 ![Screenshot](new_authors.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.2. Create K8S deployment for new version changing in previous deployment image and version v3. Checking that v3 working properly by curl from frontend pod <br>
+![Screenshot](authors-v3.png)
