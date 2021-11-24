@@ -35,3 +35,25 @@ spec:
         host: frontend
         port:
           number: 8080
+---
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: course-istio-2
+  namespace: istio-course
+spec:
+  hosts:
+  - "*"
+  gateways:
+  - course-frontend-gateway
+  http:
+  - match:
+    - uri:
+        prefix: /authors/api/v1/authors
+    rewrite:
+        uri: /api/v1/authors
+    route:
+    - destination:
+        host: authors
+        port:
+          number: 8080

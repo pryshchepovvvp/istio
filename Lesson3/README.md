@@ -16,3 +16,10 @@
 ![Screenshot](new_authors.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.2. Create K8S deployment for new version changing in previous deployment image and version v3. Checking that v3 working properly by curl from frontend pod <br>
 ![Screenshot](authors-v3.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.3. Create Virtual service to routes all incoming requests to v3 based on http header:developer:pryshchepov  It done by gateway side tuning service authors accessible from ingress, so in graph requests goes not from frontend service<br> 
+![Screenshot](featureflag.png)
+&nbsp;&nbsp;&nbsp;&nbsp;3.4. Service resiliency <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Create DestinationRule to load balance all incoming requests to the authors service by using RANDOM algorithm and circuit bracing<br>
+![Screenshot](authors_random.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.2. Create DestinationRule to load balance all incoming requests to the books service by using ROUND_ROBBIN algorithm and circuit bracing <br>
+![Screenshot](books_round_robbin.png)
